@@ -36,21 +36,27 @@ try {
 ```
 
 ***Все основные классы***
-! Main.java
+
+*Main.java*
+
 Главное меню программы.
 
-+ Person.java
+*Person.java*
+
 Родительский класс с основными полями:
+
 * id
 * name
 
-+ Student.java
+***Student.java***
+  
 Класс студента.
 Содержит:
 * course
 * GPA
 
-+ StudMan.java
+*StudMan.java*
+
 Основная логика программы:
 * добавление студентов
 * поиск
